@@ -1,0 +1,2 @@
+# flycast
+install flycast groovyarcade
